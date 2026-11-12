@@ -1,0 +1,16 @@
+{
+  "name": "la-posta-bar",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Aplicación HTML offline; npm se utiliza únicamente para pruebas opcionales",
+  "scripts": {
+    "test": "node tests/smoke.cjs"
+  },
+  "engines": {
+    "node": ">=22"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "playwright": "1.62.1"
+  }
+}

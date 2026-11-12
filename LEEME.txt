@@ -1,0 +1,23 @@
+LA POSTA BAR · PORTABLE v1.0
+
+1. Extraé el ZIP completo en una carpeta fija de tu PC Windows.
+2. Abrí ABRIR LA POSTA.bat o La Posta Bar.html con Edge o Chrome.
+3. Ajustá los productos y precios de ejemplo. La moneda es peso argentino.
+4. En Caja, abrí la jornada e ingresá el fondo inicial.
+5. En Mesas, elegí una mesa y agregá consumos.
+6. Cobrá la cuenta: podés dividir entre dos formas de pago.
+7. Registrá otros ingresos y egresos en Caja.
+8. Para cerrar, cobrá o cancelá las mesas pendientes, contá el efectivo y cerrá caja.
+9. El cierre descarga una copia completa. Verificá que quedó en Descargas.
+
+DATOS Y COPIAS
+Los datos quedan en el almacenamiento local del navegador, NO dentro del HTML ni de la carpeta. No uses modo incógnito. Usá siempre el mismo navegador, perfil y ubicación del HTML. Borrar datos del navegador puede borrar el registro. Mover la carpeta o cambiar de PC requiere exportar en Ajustes y restaurar la copia en el nuevo lugar. Guardá las copias también en un pendrive u otra unidad. El respaldo incluye consumos pendientes, productos, pagos, movimientos y cierres. La restauración reemplaza los datos actuales y descarga un respaldo previo.
+
+ALCANCE
+Aplicación HTML offline, sin instalación ni dependencias de Internet. El .bat es un lanzador para Windows; no es un ejecutable .exe nativo. No sincroniza varias computadoras. Usar en una sola ventana. No integra terminales de pago: registra cobros realizados por fuera. La impresión es un comprobante interno, no factura fiscal. Sin usuarios, stock, costos ni integración ARCA. El saldo de ingresos y egresos no equivale a ganancia contable.
+
+CAJA
+Los consumos pendientes no se cuentan como ventas hasta cobrarlos. El precio queda fijado al agregar cada producto a la mesa. Quitar productos o formas de pago los desactiva y conserva los datos históricos. El efectivo esperado es fondo inicial + ingresos en efectivo - egresos en efectivo. Transferencias y tarjetas no aumentan el efectivo esperado. No se permite cerrar con mesas pendientes. Los movimientos ya cobrados se conservan; para corregir un cobro, registrá un egreso compensatorio con un concepto claro. Las fechas se muestran en el huso horario de la PC.
+
+MEJORAS SUGERIDAS PARA UNA SIGUIENTE VERSIÓN
+Stock y alertas de faltantes; comandas a cocina; permisos por empleado y auditoría de anulaciones; integración fiscal; base de datos local con respaldos automáticos en disco y un .exe nativo firmado para Windows.

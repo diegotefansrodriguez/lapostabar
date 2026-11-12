@@ -1,0 +1,16 @@
+{
+  "runtime": {
+    "external_packages": [],
+    "browser": "Microsoft Edge o Google Chrome actuales",
+    "os": "Windows 10/11 para el lanzador .bat",
+    "internet_required": false
+  },
+  "resources": "Todos incorporados en HTML; fuentes y caracteres del sistema",
+  "development_optional": {
+    "node": ">=22",
+    "npm": "Incluido con Node.js",
+    "playwright": "1.62.1",
+    "chromium": "Instalado mediante npx playwright install chromium o ruta explícita"
+  },
+  "build": "No requiere compilación"
+}
